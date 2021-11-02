@@ -1,0 +1,27 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventpool.js",
+  "scripts": {
+    "start": "node eventpool.js ",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpfingston/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpfingston/caps/issues"
+  },
+  "homepage": "https://github.com/bpfingston/caps#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.3.1",
+    "nodemon": "^2.0.14",
+    "supertest": "^6.1.6"
+  }
+}
