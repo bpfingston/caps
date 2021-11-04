@@ -13,7 +13,8 @@ Begin the build of an application for a company called CAPS - The Code Academy P
 Githut: https://github.com/bpfingston/caps
   
 ## Include embedded UML
-![embedded UML](./images/devpath.png)
+![embedded UML](./images/CAPS.jpg)
+![embedded UML2](./images/cap2.jpg)
 
 ## Talk about your routes
 
