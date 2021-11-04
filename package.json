@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/bpfingston/caps#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "faker": "^5.5.3",
     "jest": "^27.3.1",
-    "nodemon": "^2.0.14",
+    "socket.io": "^4.3.1",
+    "socket.io-client": "^4.3.2",
     "supertest": "^6.1.6"
   }
 }
